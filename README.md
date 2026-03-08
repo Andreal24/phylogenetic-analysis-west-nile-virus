@@ -2,9 +2,6 @@
 
 This repository contains the material related to a bachelor thesis on phylogenetic analysis of genomic sequences of West Nile Virus.
 
-## Author
-Andrea Tesi
-
 ## Description
 
 The project focuses on the reconstruction of phylogenetic trees from viral genomic sequences in order to study evolutionary relationships.
